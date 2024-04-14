@@ -1,0 +1,1167 @@
+{
+    "wordPool": [
+        {
+            "wordType": "Verb",
+            "translation": "Put up with / tolerate",
+            "practiceCounter": 2,
+            "proficiencyLevel": "Platinum",
+            "word": "Aguantar",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Issue",
+            "practiceCounter": 4,
+            "proficiencyLevel": "Platinum",
+            "word": "Asunto",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Phrase",
+            "translation": "Related to...",
+            "practiceCounter": 3,
+            "proficiencyLevel": "Platinum",
+            "word": "Relacionado (con)",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Surroundings",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Alrededor",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Course",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Asignatura",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Adverb",
+            "translation": "Recently",
+            "practiceCounter": 3,
+            "proficiencyLevel": "Platinum",
+            "word": "Ultimamente",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Faucet",
+            "practiceCounter": 3,
+            "proficiencyLevel": "Platinum",
+            "word": "Grifo",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Hallway / hall",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Pasillo",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Adjective",
+            "translation": "Surrounding",
+            "practiceCounter": 3,
+            "proficiencyLevel": "Platinum",
+            "word": "Alrededor",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Shadow",
+            "practiceCounter": 6,
+            "proficiencyLevel": "Platinum",
+            "word": "Sombra",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Hurry/rush",
+            "practiceCounter": 3,
+            "proficiencyLevel": "Platinum",
+            "word": "Prisa",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "To get used to",
+            "practiceCounter": 2,
+            "proficiencyLevel": "Platinum",
+            "word": "Acostumbrar",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Freak out",
+            "practiceCounter": 2,
+            "proficiencyLevel": "Platinum",
+            "word": "Flipar",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Break",
+            "practiceCounter": 2,
+            "proficiencyLevel": "Platinum",
+            "word": "Romper",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Break (itself/oneself)",
+            "practiceCounter": 2,
+            "proficiencyLevel": "Platinum",
+            "word": "Romperse",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Find out / realize",
+            "practiceCounter": 3,
+            "proficiencyLevel": "Platinum",
+            "word": "Descubrir",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Find out",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Averiguar",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Phrase",
+            "translation": "I mean / or rather",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "O sea",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Impress",
+            "practiceCounter": 3,
+            "proficiencyLevel": "Platinum",
+            "word": "Impresionar",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Get confused",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Confundirse",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "To command / be in charge",
+            "practiceCounter": 2,
+            "proficiencyLevel": "Platinum",
+            "word": "Mandar",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Ruin",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Arruinar",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Phrase",
+            "translation": "Whatever",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Lo que sea",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Worry / be afraid",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Temer",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Scare",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Asustar(se)",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Phrase",
+            "translation": "Change one\u2019s mind",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Cambiar de opinion",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Creep out",
+            "practiceCounter": 4,
+            "proficiencyLevel": "Platinum",
+            "word": "Dar yuyu/cosa",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Phrase",
+            "translation": "Get to the point",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Ir al grano",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Complain",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Quejarse",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "I dropped it",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Se me cayo",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Phrase",
+            "translation": "I\u2019m good at ___",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Soy bueno verb-ing",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Happen",
+            "practiceCounter": 2,
+            "proficiencyLevel": "Platinum",
+            "word": "Suceder",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Come up with",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Idear",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Phrase",
+            "translation": "On the way",
+            "practiceCounter": 3,
+            "proficiencyLevel": "Platinum",
+            "word": "De/en camino",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Adjective",
+            "translation": "Dirty",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Sucio",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Practice/train",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Ensayar",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Get away",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Alejar",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Avoid",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Evitar",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Phrase",
+            "translation": "What does it matter?",
+            "practiceCounter": 2,
+            "proficiencyLevel": "Platinum",
+            "word": "Que mas da",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Dare",
+            "practiceCounter": 2,
+            "proficiencyLevel": "Platinum",
+            "word": "Atreverse",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Fit",
+            "practiceCounter": 2,
+            "proficiencyLevel": "Platinum",
+            "word": "Caber",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Adjective",
+            "translation": "Plenty",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "De sobra",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Give up",
+            "practiceCounter": 3,
+            "proficiencyLevel": "Platinum",
+            "word": "Ceder",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Rotten",
+            "practiceCounter": 3,
+            "proficiencyLevel": "Platinum",
+            "word": "Podrido",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Phrase",
+            "translation": "Just in case",
+            "practiceCounter": 3,
+            "proficiencyLevel": "Platinum",
+            "word": "Por si acaso",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Phrase",
+            "translation": "Keep in mind",
+            "practiceCounter": 2,
+            "proficiencyLevel": "Platinum",
+            "word": "Tener en cuenta",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Pressure",
+            "practiceCounter": 2,
+            "proficiencyLevel": "Platinum",
+            "word": "Presion",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Sink/bury",
+            "practiceCounter": 3,
+            "proficiencyLevel": "Platinum",
+            "word": "Hundir",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Get ready",
+            "practiceCounter": 2,
+            "proficiencyLevel": "Platinum",
+            "word": "Disponer",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Point",
+            "practiceCounter": 2,
+            "proficiencyLevel": "Platinum",
+            "word": "Señalar",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Have a snack",
+            "practiceCounter": 2,
+            "proficiencyLevel": "Platinum",
+            "word": "Merender",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Get wet",
+            "practiceCounter": 2,
+            "proficiencyLevel": "Platinum",
+            "word": "Mojarse",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Feel sorry for",
+            "practiceCounter": 3,
+            "proficiencyLevel": "Platinum",
+            "word": "Lamentar",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Phrase",
+            "translation": "In no time",
+            "practiceCounter": 3,
+            "proficiencyLevel": "Platinum",
+            "word": "Dentro de poco",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Test/verify",
+            "practiceCounter": 3,
+            "proficiencyLevel": "Platinum",
+            "word": "Comprobar",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Adjective",
+            "translation": "Someone else\u2019s",
+            "practiceCounter": 3,
+            "proficiencyLevel": "Platinum",
+            "word": "Ajeno",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Cover up / hide (deceptive)",
+            "practiceCounter": 4,
+            "proficiencyLevel": "Platinum",
+            "word": "Encubrir",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Be enough/sufficient",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Platinum",
+            "word": "Bastar",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Fright/scare",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Platinum",
+            "word": "Susto",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Be useless",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Platinum",
+            "word": "Sobrar",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Underestimate",
+            "practiceCounter": 2,
+            "proficiencyLevel": "Platinum",
+            "word": "Subestimar",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Choice/decision",
+            "practiceCounter": 2,
+            "proficiencyLevel": "Platinum",
+            "word": "Eleccion",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Scratch",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Platinum",
+            "word": "Rayar",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Word",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Palabra",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Adjective",
+            "translation": "New",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Nuevo",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Vocabulary",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Vocabulario",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "No",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Platinum",
+            "word": "No",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Cucumber",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Platinum",
+            "word": "Pepino",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Dog",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Platinum",
+            "word": "Perro",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Cat",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Platinum",
+            "word": "Gato",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Battery",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Platinum",
+            "word": "Batteria",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Battery",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Platinum",
+            "word": "Pila",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Spain",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Espana",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Wear for the first time",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Estrenar",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "One",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Platinum",
+            "word": "Uno",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Want",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Platinum",
+            "word": "Querer",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Penguin",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Platinum",
+            "word": "Penguino",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Puppy",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Platinum",
+            "word": "Perrito",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Snake",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Platinum",
+            "word": "Serpiente",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Duck",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Platinum",
+            "word": "Pato",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Table",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Platinum",
+            "word": "Mesa",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Workshop",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Platinum",
+            "word": "Taller",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Mother",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Platinum",
+            "word": "Madre",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Couch",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Platinum",
+            "word": "Sofa",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Umbrella",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Platinum",
+            "word": "Sombrilla",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Atm",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Platinum",
+            "word": "Cajero automatico",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Pen",
+            "practiceCounter": 2,
+            "proficiencyLevel": "Platinum",
+            "word": "Boli",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Pen",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Pluma",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Bury/sink",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Hundir",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Open",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Platinum",
+            "word": "Abrir",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Leave",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Salir",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Pleaseee",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Porfis",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Add",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Agregar",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Microwave",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Microwindas",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Book",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Libro",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Pound",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Libra",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Jacket",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Chaqueta",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Mind",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Importar",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "All",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Platinum",
+            "word": "Todo",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Hand",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Mano",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Hair",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Cabello",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Brown",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Maron",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Like",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Como",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Pinkk",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Platinum",
+            "word": "Rosa",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Love",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Platinum",
+            "word": "Amor",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Adjective",
+            "translation": "Loving",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Platinum",
+            "word": "Amante",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Character",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Platinum",
+            "word": "Personaje",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Bad",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Platinum",
+            "word": "Mal",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Foot",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Platinum",
+            "word": "Pie",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Finger",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Platinum",
+            "word": "Dedo",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Body",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Platinum",
+            "word": "Cuerpo",
+            "waitTime": 999999
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Burrito",
+            "practiceCounter": 2,
+            "proficiencyLevel": "Gold",
+            "word": "Burrito",
+            "waitTime": 0
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Umbrella",
+            "practiceCounter": 2,
+            "proficiencyLevel": "Gold",
+            "word": "Sombrillaa",
+            "waitTime": 1
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Eight",
+            "practiceCounter": 2,
+            "proficiencyLevel": "Gold",
+            "word": "Ocho",
+            "waitTime": 3
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Think",
+            "practiceCounter": 2,
+            "proficiencyLevel": "Gold",
+            "word": "Pensar",
+            "waitTime": 3
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Realize",
+            "practiceCounter": 2,
+            "proficiencyLevel": "Gold",
+            "word": "Averiguarr",
+            "waitTime": 0
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Love",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Gold",
+            "word": "Amar",
+            "waitTime": 0
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Fair",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Gold",
+            "word": "Justo",
+            "waitTime": 2
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Kitten",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Gold",
+            "word": "Gatito",
+            "waitTime": 2
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Wow",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Gold",
+            "word": "Guau",
+            "waitTime": 3
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Ummm",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Gold",
+            "word": "Emmm",
+            "waitTime": 3
+        },
+        {
+            "wordType": "Adjective",
+            "translation": "Perfect",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Gold",
+            "word": "Perfe",
+            "waitTime": 1
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Bottle",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Gold",
+            "word": "Botella",
+            "waitTime": 1
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Candy",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Gold",
+            "word": "Chuches",
+            "waitTime": 2
+        },
+        {
+            "wordType": "Adverb",
+            "translation": "Keyboard",
+            "practiceCounter": 2,
+            "proficiencyLevel": "Silver",
+            "word": "Teclado",
+            "waitTime": 0
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Six",
+            "practiceCounter": 2,
+            "proficiencyLevel": "Silver",
+            "word": "Seis",
+            "waitTime": 2
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Pants",
+            "practiceCounter": 2,
+            "proficiencyLevel": "Silver",
+            "word": "Pantalones",
+            "waitTime": 2
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Eleven",
+            "practiceCounter": 2,
+            "proficiencyLevel": "Silver",
+            "word": "Once",
+            "waitTime": 2
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Sixx",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Silver",
+            "word": "Siess",
+            "waitTime": 1
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Napkin",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Silver",
+            "word": "Servieta",
+            "waitTime": 1
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Five",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Silver",
+            "word": "Cinco",
+            "waitTime": 2
+        },
+        {
+            "wordType": "Phrase",
+            "translation": "Keyboard",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Silver",
+            "word": "Teclado",
+            "waitTime": 0
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Skd",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Silver",
+            "word": "Dqf",
+            "waitTime": 1
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Hiii",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Silver",
+            "word": "Hola",
+            "waitTime": 2
+        },
+        {
+            "wordType": "Verb",
+            "translation": "To me",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Silver",
+            "word": "Me",
+            "waitTime": 2
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Hihiii",
+            "practiceCounter": 2,
+            "proficiencyLevel": "Bronze",
+            "word": "Holisssss",
+            "waitTime": 0
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Howreyou",
+            "practiceCounter": 2,
+            "proficiencyLevel": "Bronze",
+            "word": "Que tall",
+            "waitTime": 1
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Whatt",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Bronze",
+            "word": "Quee",
+            "waitTime": 0
+        },
+        {
+            "wordType": "Verb",
+            "translation": "Go piss",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Bronze",
+            "word": "Hacer piss",
+            "waitTime": 1
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Jaja",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Bronze",
+            "word": "Haha",
+            "waitTime": 1
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Tired",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Bronze",
+            "word": "Harto",
+            "waitTime": 0
+        },
+        {
+            "wordType": "Noun",
+            "translation": "See",
+            "practiceCounter": 0,
+            "proficiencyLevel": "Bronze",
+            "word": "Ver",
+            "waitTime": 1
+        },
+        {
+            "wordType": "Noun",
+            "translation": "Combo",
+            "practiceCounter": 2,
+            "proficiencyLevel": "Copper",
+            "word": "Menu",
+            "waitTime": 0
+        },
+        {
+            "wordType": "Adjective",
+            "translation": "His",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Copper",
+            "word": "Suyo",
+            "waitTime": 0
+        },
+        {
+            "wordType": "Adjective",
+            "translation": "Yours",
+            "practiceCounter": 1,
+            "proficiencyLevel": "Copper",
+            "word": "Tuyo",
+            "waitTime": 0
+        }
+    ],
+    "lastNumOfNewWords": 2,
+    "threeTimesAgoNumOfNewWords": 1,
+    "timeBeforeNumOfNewWords": 1
+}

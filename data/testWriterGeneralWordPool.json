@@ -1,0 +1,18 @@
+{"wordPool": [
+    {
+        "wordType": "Verb",
+        "translation": "Break",
+        "practiceCounter": 0,
+        "proficiencyLevel": "Copper",
+        "word": "Romperse",
+        "waitTime": 0
+    },
+    {
+        "wordType": "Verb",
+        "translation": "Scratch",
+        "practiceCounter": 0,
+        "proficiencyLevel": "Copper",
+        "word": "Rayar",
+        "waitTime": 0
+    }
+]}
